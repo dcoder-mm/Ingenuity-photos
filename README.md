@@ -12,4 +12,4 @@ HNM_0152_0680432688_793ECM_N0100001HELI05240_0000A0J.jpg
 
 793 — Milliseconds
 
-Other fields: https://mastcamz.asu.edu/decoding-the-raw-publicly-released-mastcam-z-image-filenames/
+Other fields: https://mastcamz.asu.edu/decoding-the-raw-publicly-released-mastcam-z-image-filenames/ and https://www.patreon.com/posts/orientation-to-48263650
